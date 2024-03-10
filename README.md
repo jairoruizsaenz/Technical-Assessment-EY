@@ -10,42 +10,6 @@ You can check the step-by-step analysis process and conclusions [here](https://d
 1. Results Folder: This folder contains reports, charts, and any other files generated during the analysis.
 1. Other Files Folder: This folder contains additional files not directly used in the analysis.
 
-## Data
-
-In order to replicate the analysis, please note that the data files are missing. Once you have downloaded the data files, create a data folder at the root level with the following structure:
-
-- data
-    - Graduate School and University
-        - Column names
-            - KI9119A_1920.xlsx
-            - KI9119A_2021.xlsx
-            - KI9119A_2122.xlsx
-            - KI9119A_2223.xlsx
-            - KI9119B_1920.xlsx
-            - KI9119B_2021.xlsx
-            - KI9119B_2122.xlsx
-            - KI9119B_2223.xlsx            
-        - Datasets
-            - KI9119A_1920.csv
-            - KI9119A_2021.csv
-            - KI9119A_2122.csv
-            - KI9119A_2223.csv
-            - KI9119B_1920.csv
-            - KI9119B_2021.csv
-            - KI9119B_2122.csv
-            - KI9119B_2223.csv
-    - High School
-        - Column names
-            - F9117G_1920.xlsx
-            - F9117G_2021.xlsx
-            - F9117G_2122.xlsx
-            - F9117G_2223.xlsx
-        - Datasets
-            - F9117G_1920.csv
-            - F9117G_2021.csv
-            - F9117G_2122.csv
-            - F9117G_2223.csv
-
 ## Installation
 
 To get started, follow these steps:
@@ -82,3 +46,38 @@ Once you have activated the virtual environment, you can install the required de
    pip install -r requirements.txt
    ```
 
+## Data
+
+In order to replicate the analysis, please note that the data files are missing. Once you have downloaded the data files, create a data folder at the root level with the following structure:
+
+- data
+    - Graduate School and University
+        - Column names
+            - KI9119A_1920.xlsx
+            - KI9119A_2021.xlsx
+            - KI9119A_2122.xlsx
+            - KI9119A_2223.xlsx
+            - KI9119B_1920.xlsx
+            - KI9119B_2021.xlsx
+            - KI9119B_2122.xlsx
+            - KI9119B_2223.xlsx            
+        - Datasets
+            - KI9119A_1920.csv
+            - KI9119A_2021.csv
+            - KI9119A_2122.csv
+            - KI9119A_2223.csv
+            - KI9119B_1920.csv
+            - KI9119B_2021.csv
+            - KI9119B_2122.csv
+            - KI9119B_2223.csv
+    - High School
+        - Column names
+            - F9117G_1920.xlsx
+            - F9117G_2021.xlsx
+            - F9117G_2122.xlsx
+            - F9117G_2223.xlsx
+        - Datasets
+            - F9117G_1920.csv
+            - F9117G_2021.csv
+            - F9117G_2122.csv
+            - F9117G_2223.csv
