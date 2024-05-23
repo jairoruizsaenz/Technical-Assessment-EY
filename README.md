@@ -2,7 +2,7 @@
 
 Welcome! This repository contains the source code for the EY data challenge. 
 
-You can check the step-by-step analysis process and conclusions [here](https://datachallenge.jairo.digital/)
+You can check the step-by-step analysis process and conclusions [here](https://jairo.digital/Technical-Assessment-EY/)
 
 ## Important files
 
